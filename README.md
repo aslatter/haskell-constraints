@@ -22,5 +22,5 @@ putting this out here because when I wanted to see if this would
 be helpful I didn't see anything like this already published - other
 than the `cabal.config` files [published for Stackage builds][2].
 
-[1] https://www.haskell.org/platform/changelog.html
-[2] http://www.stackage.org/lts/cabal.config
+[1]: https://www.haskell.org/platform/changelog.html
+[2]: http://www.stackage.org/lts/cabal.config
