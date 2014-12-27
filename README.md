@@ -8,7 +8,8 @@ construct a build, similar to what the `cabal freeze` command
 does.
 
 Currently we provide `cabal.config` constraint-files for various
-recent releases of the [Haskell Platform][1].
+recent releases of the [Haskell Platform][1] and recent releases
+of [Debian][3].
 
 The hope is that you can use sandboxes and convinient build
 tools like `cabal install` to build your package and transparently
@@ -24,3 +25,4 @@ than the `cabal.config` files [published for Stackage builds][2].
 
 [1]: https://www.haskell.org/platform/changelog.html
 [2]: http://www.stackage.org/lts/cabal.config
+[3]: https://packages.debian.org/source/stable/haskell/
